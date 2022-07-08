@@ -1,7 +1,5 @@
 import React from 'react';
-import UserName from './components/UserName/UserName';
-import Password from './components/Password/Password';
-import Button from './components/Button/Button';
+import {UserName ,Password, Button} from './components';
 import './App.css';
 
 class App extends React.Component {
